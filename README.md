@@ -15,3 +15,7 @@
   - [appunti](https://github.com/AShatti99/Appunti/blob/main/RO.pdf)
 - Crittografia
   - [appunti](https://github.com/AShatti99/Appunti/blob/main/CRI.pdf)
+- Reti di Calcolatori e Laboratorio
+  - [appunti teoria](https://github.com/AShatti99/Appunti/blob/main/RC.pdf)
+  - [appunti lab](https://github.com/AShatti99/Appunti/blob/main/RCL.pdf)
+  - [progetto 2021/22](https://github.com/AShatti99/WINSOME)
