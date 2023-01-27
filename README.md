@@ -9,6 +9,8 @@
   - [esami](https://github.com/AShatti99/AE)
 - Basi di dati
   - [appunti](https://github.com/AShatti99/Appunti/blob/main/BD.pdf)
+- Calcolo delle probabilità e statistica
+  - [formulario](https://github.com/AShatti99/Appunti/blob/main/CPS.pdf)
 - Ingegneria del software 
   - [appunti](https://github.com/AShatti99/Appunti/blob/main/IS.pdf)
 - Ricerca operativa
