@@ -19,6 +19,8 @@
   - [appunti](https://github.com/AShatti99/Appunti/blob/main/RO.pdf)
 - Crittografia
   - [appunti](https://github.com/AShatti99/Appunti/blob/main/CRI.pdf)
+- Elementi di Calcolabilità e Complessità
+  - [appunti](https://github.com/AShatti99/Appunti/blob/main/ECC.pdf)
 - Reti di Calcolatori e Laboratorio
   - [appunti teoria](https://github.com/AShatti99/Appunti/blob/main/RC.pdf)
   - [appunti lab](https://github.com/AShatti99/Appunti/blob/main/RCL.pdf)
